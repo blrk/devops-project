@@ -3,6 +3,7 @@
 <h2> Glad to see you in the DevOps Class </h2>
 <h3> DevOps class creating CI/CD setup in kub-cluster</h3>
 <h4> before third internal last class</h4>
+<h4> Perform the rolling update</h4>
 
 
 
